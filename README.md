@@ -1,42 +1,57 @@
-<!-- Title -->
-<h1 align="center">👋 Hey, I'm Rylan K Fontenot!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rylan K Fontenot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>👋 Hey, I'm Rylan K Fontenot!</h1>
+    <p>Passionate about programming, networking, and ethical hacking, I'm on a mission to explore the endless possibilities of technology.</p>
+  </header>
+  
+  <section id="skills">
+    <h2>🛠️ Skills</h2>
+    <ul>
+      <li class="expert">HTML</li>
+      <li class="expert">CSS</li>
+      <li class="expert">JavaScript</li>
+      <li class="intermediate">Java</li>
+      <li class="intermediate">Python</li>
+    </ul>
+  </section>
 
-<!-- Introduction -->
-<p align="center">Passionate about programming, networking, and ethical hacking, I'm on a mission to explore the endless possibilities of technology.</p>
+  <section id="latest-videos">
+    <h2>🎥 Latest YouTube Videos</h2>
+    <ul>
+      <li>[TBA]</li>
+      <li>[TBA]</li>
+      <li>[TBA]</li>
+    </ul>
+  </section>
 
-<!-- Skills -->
-<h3 align="center">🛠️ Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-Expert-blue" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-Intermediate-red" alt="Java">
-  <img src="https://img.shields.io/badge/Python-Intermediate-green" alt="Python">
-</p>
+  <section id="github-stats">
+    <h2>📊 GitHub Stats</h2>
+    <div class="stats">
+      <p>Contributions: [TBA]</p>
+      <p>Repositories: [TBA]</p>
+      <p>Followers: [TBA]</p>
+    </div>
+  </section>
 
-<!-- Latest YouTube Videos -->
-<h3 align="center">🎥 Latest YouTube Videos</h3>
-<p align="center">
-  - [TBA]<br>
-  - [TBA]<br>
-  - [TBA]
-</p>
+  <section id="coding-journey">
+    <h2>👨‍💻 Coding Journey</h2>
+    <p>TBA</p>
+  </section>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-TBA-brightgreen" alt="Contributions">
-  <img src="https://img.shields.io/badge/Repositories-TBA-blueviolet" alt="Repositories">
-  <img src="https://img.shields.io/badge/Followers-TBA-yellow" alt="Followers">
-</p>
-
-<!-- Coding Journey -->
-<h3 align="center">👨‍💻 Coding Journey</h3>
-<p align="center">TBA</p>
-
-<!-- Connect with Me -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rylankfontenot/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://github.com/rylankfontenot"><img src="https://img.shields.io/badge/GitHub-Follow-green"></a>
-</p>
+  <footer>
+    <h2>🌐 Connect with Me</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/rylankfontenot/">LinkedIn</a></li>
+      <li><a href="https://github.com/rylankfontenot">GitHub</a></li>
+    </ul>
+  </footer>
+</body>
+</html>
