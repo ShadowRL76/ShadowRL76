@@ -6,18 +6,18 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 ---
 ### Socials
+
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
 [![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](-----------)
 
-
 ---
+
 ### Social Metrics
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Subscribers)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
-[![YouTube Views](https://img.shields.io/youtube/channel/views/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Views)]([Your_YouTube_Channel_Link](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA))
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCetCzxQEy0gsbkWNrjp3VRA?style=for-the-badge&label=YouTube%20Subscribers)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCetCzxQEy0gsbkWNrjp3VRA?style=for-the-badge&label=YouTube%20Views)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
 [![GitHub Followers](https://img.shields.io/github/followers/ShadowRL76?style=for-the-badge&label=GitHub%20Followers)](https://github.com/ShadowRL76)
 [![GitHub Stars](https://img.shields.io/github/stars/ShadowRL76?style=for-the-badge&label=GitHub%20Stars)](https://github.com/ShadowRL76)
-
 
 ---
 
