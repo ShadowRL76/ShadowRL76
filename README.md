@@ -33,10 +33,5 @@ I'm a high school senior with a passion for programming, ethical hacking, and ne
 
 ### Most Used Languages in My Repositories:
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- Java
-- Linux
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact)
 
