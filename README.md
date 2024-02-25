@@ -40,5 +40,33 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 #
 
 <details>
- <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
-Something here soon
+<details>
+  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
+  
+  <div style="text-align: center;">
+    <p>Welcome to my coding journey! 🚀</p>
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto;">
+  </div>
+
+</details>
+
+<style>
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details[open] .animated-section {
+    animation: fadeIn 2s ease-out;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
