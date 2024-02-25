@@ -2,8 +2,23 @@
 
 **`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`**
 
-I am currently a Senior in High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a Ph.D. in Computer Science, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.
+<div id="typing-text"></div>
 
+<script>
+    const text = "I am currently a Senior in High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a Ph.D. in Computer Science, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.";
+
+    let index = 0;
+
+    function type() {
+        document.getElementById('typing-text').textContent += text[index];
+        index++;
+        if (index < text.length) {
+            setTimeout(type, 50); // Adjust the typing speed here (smaller value for faster typing)
+        }
+    }
+
+    type();
+</script>
 ---
 ### Socials
 
