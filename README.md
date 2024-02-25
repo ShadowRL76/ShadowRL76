@@ -5,8 +5,13 @@
 I am currently a Senior in High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a Ph.D. in Computer Science, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.
 
 ---
-
 ### Socials
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](Your_YouTube_Link)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](Your_Discord_Link)
+
+
+---
+### Social Metrics
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Subscribers)](Your_YouTube_Channel_Link)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Views)](Your_YouTube_Channel_Link)
