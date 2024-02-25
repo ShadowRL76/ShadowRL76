@@ -37,11 +37,12 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 <p>
    <a href="https://github.com/ShadowRL76">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=dark" alt="Top Languages">
    </a>
 </p>
 
 #
+
 
 <details>
  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
