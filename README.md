@@ -25,13 +25,33 @@ I'm a high school senior with a passion for programming, ethical hacking, and ne
 
 #
 
-### 📊 Stats
+# 📊 Stats and Activity
 
-![ShadowRL76's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox)
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <p>
+    ShadowRL76's GitHub streak:
+    <br>
+    🔥 Get your streak stats at [git.io/streak-stats](git.io/streak-stats)
+  </p>
+</details>
 
-#
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <p>
+    Here are ShadowRL76's GitHub stats and top languages:
+    <br>
+    Note: Top languages reflect the languages present in public code and may not represent skill level.
+  </p>
+</details>
 
-### Most Used Languages in My Repositories:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact)
-
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <ul>
+    <li>[Replace with your recent GitHub activity]</li>
+    <li>[Replace with your recent GitHub activity]</li>
+    <li>[Replace with your recent GitHub activity]</li>
+    <li>[Replace with your recent GitHub activity]</li>
+    <li>[Replace with your recent GitHub activity]</li>
+  </ul>
+</details>
