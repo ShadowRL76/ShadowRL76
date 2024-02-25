@@ -4,8 +4,6 @@
 
 I am currently a Senior in High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a Ph.D. in Computer Science, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.
 
-
-
 ---
 
 ### Languages and Tools:
@@ -27,8 +25,8 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 <br />
 
 
-
 ---
+
 ### 📊 Stats
 
 <p>
@@ -43,7 +41,17 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 #
 
-
 <details>
  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
-Something here soon
+   
+   ### Popular Repositories:
+   - [Repository 1](#) - Description 1
+   - [Repository 2](#) - Description 2
+   - [Repository 3](#) - Description 3
+
+   ### Recent Activity:
+   - Pushed to [Repository 1](#) - Commit message 1
+   - Opened [Issue 1](#) in [Repository 2](#)
+   - Commented on [Issue 2](#) in [Repository 3](#)
+   
+</details>
