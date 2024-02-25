@@ -6,6 +6,14 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 ---
 
+### Socials
+
+---
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](Your_YouTube_Link)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](Your_Discord_Link)
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
@@ -43,15 +51,4 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 <details>
  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
-   
-   ### Popular Repositories:
-   - [Repository 1](#) - Description 1
-   - [Repository 2](#) - Description 2
-   - [Repository 3](#) - Description 3
-
-   ### Recent Activity:
-   - Pushed to [Repository 1](#) - Commit message 1
-   - Opened [Issue 1](#) in [Repository 2](#)
-   - Commented on [Issue 2](#) in [Repository 3](#)
-   
-</details>
+   Working on it
