@@ -8,8 +8,11 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 ### Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](Your_YouTube_Link)
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](Your_Discord_Link)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Subscribers)](Your_YouTube_Channel_Link)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCXXXXXXXXXXXXX?style=for-the-badge&label=YouTube%20Views)](Your_YouTube_Channel_Link)
+[![GitHub Followers](https://img.shields.io/github/followers/ShadowRL76?style=for-the-badge&label=GitHub%20Followers)](Your_GitHub_Profile_Link)
+[![GitHub Stars](https://img.shields.io/github/stars/ShadowRL76?style=for-the-badge&label=GitHub%20Stars)](Your_GitHub_Profile_Link)
+
 
 ---
 
