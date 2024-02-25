@@ -36,9 +36,7 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 <br/>
 
-
 ---
-
 
 ### Languages and Tools:
 
@@ -51,10 +49,8 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 
-
 <br />
 <br />
-
 
 <details>
    <summary><h3>📊 Stats</h3></summary>
@@ -77,4 +73,3 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 <details>
  <summary><h3>👨‍💻 Rylan's Coding Journey</h3></summary>
-
