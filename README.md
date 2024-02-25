@@ -61,7 +61,7 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 #
 
 <details>
- <summary><h3>👨‍💻 Rylan's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
 
 **`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`**
 
