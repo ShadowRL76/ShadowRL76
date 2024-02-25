@@ -15,6 +15,26 @@ I am currently a Senior in High School, deeply passionate about programming, eth
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ShadowRL76?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<p align="center">
+  <a href="https://github.com/ShadowRL76">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Your Name" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA">
+    <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="YOUR_DISCORD_LINK"><img width="32px" alt="Discord" title="Your Discord Server" src="https://i.imgur.com/OViZO8J.png"/></a>
+</p>
+
+<br/>
 
 
 ---
