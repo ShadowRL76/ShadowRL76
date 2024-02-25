@@ -1,59 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ShadowRL76's GitHub Profile</title>
-  <style>
-    /* Your CSS styles here */
-  </style>
-</head>
-<body>
-  <h1># ShadowRL76</h1>
-  <h2>`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`</h2>
-  
-  <!-- Your bio and description -->
-  <p>
-    I'm a high school senior with a passion for programming, ethical hacking, and networking. My goal is to earn a Ph.D. in Computer Science and become a network engineer, providing me with versatility in the IT field. I enjoy building projects from scratch to tackle real-world problems and plan to share my experiences on platforms like YouTube. Let's connect and explore the exciting world of technology together!
-  </p>
+# ShadowRL76's GitHub Profile
 
-  <!-- Stats and Activity section -->
-  <h2>📊 Stats and Activity</h2>
+## About Me
+I'm passionate about coding and technology, with a focus on [mention any specific interests or areas of expertise].
 
-  <!-- Streak Stats -->
-  <details>
-    <summary>🔥 Streak Stats</summary>
-    <p>
-      ShadowRL76's GitHub streak:
-      <br>
-      🔥 Get your streak stats at <a href="https://git.io/streak-stats">git.io/streak-stats</a>
-    </p>
-  </details>
+## My Favorite Tools
+- [Your favorite tool 1]
+- [Your favorite tool 2]
+- [Your favorite tool 3]
 
-  <!-- GitHub Profile Stats -->
-  <details>
-    <summary>💻 GitHub Profile Stats</summary>
-    <p>
-      Here are ShadowRL76's GitHub stats and top languages:
-      <br>
-      <!-- You can replace the following placeholders with your actual stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=radical" alt="ShadowRL76's GitHub Stats">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=radical" alt="ShadowRL76's Top Languages">
-    </p>
-  </details>
+## My Projects
+### Project 1
+Description of project 1.
 
-  <!-- Recent GitHub Activity -->
-  <details>
-    <summary>⚡ Recent GitHub Activity</summary>
-    <ul>
-      <!-- Replace these placeholders with your recent GitHub activity -->
-      <li>[Replace with your recent GitHub activity]</li>
-      <li>[Replace with your recent GitHub activity]</li>
-      <li>[Replace with your recent GitHub activity]</li>
-      <li>[Replace with your recent GitHub activity]</li>
-      <li>[Replace with your recent GitHub activity]</li>
-    </ul>
-  </details>
-</body>
-</html>
+### Project 2
+Description of project 2.
+
+### Project 3
+Description of project 3.
+
+## My Contributions
+### Contribution 1
+Description of contribution 1.
+
+### Contribution 2
+Description of contribution 2.
+
+### Contribution 3
+Description of contribution 3.
+
+## My Stats
+- Total Repositories: [Your total number of repositories](https://github.com/ShadowRL76?tab=repositories)
+- Total Stars: [Your total number of stars received](https://github.com/ShadowRL76?tab=stars)
+- Total Followers: [Your total number of followers](https://github.com/ShadowRL76?tab=followers)
+- Total Following: [Your total number of people you're following](https://github.com/ShadowRL76?tab=following)
+
+## My Activities
+- [Activity 1]
+- [Activity 2]
+- [Activity 3]
