@@ -6,7 +6,7 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 ---
 ### Socials
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](Your_YouTube_Link)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
 [![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](Your_Discord_Link)
 
 
