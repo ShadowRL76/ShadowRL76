@@ -27,7 +27,6 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 
 
-
 ---
 
 ### Languages and Tools:
