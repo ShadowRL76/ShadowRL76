@@ -41,7 +41,4 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 
 <details>
  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
-
-**`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`**
-
-I am currently a Senior in High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a Ph.D. in Computer Science, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.
+Something here soon
