@@ -1,32 +1,26 @@
-**Welcome to My GitHub Repository!**
+👋 Hey there, I'm Rylan K Fontenot!
 
-![Banner Image](link_to_banner_image)
+Passionate in programming, networking, and ethical hacking, I'm on a journey to explore the depths of technology and its endless possibilities. With a keen interest in cybersecurity and web development, I strive to contribute positively to the digital world.
 
-### About
-Hey there! 👋 Welcome to my GitHub repository! Here you'll find a collection of projects I've been working on. From coding experiments to useful utilities, I enjoy exploring various technologies and creating cool stuff. Feel free to explore the repositories and let me know if you have any questions or suggestions!
-
-### Languages Used
-- Python
+🛠️ Languages and Tools:
+- HTML
+- CSS
 - JavaScript
-- HTML/CSS
 - Java
-- [Add more languages as appropriate]
+- Python
 
-### Highlights
-Here are some highlights of what you'll find in this repository:
+🎥 Latest YouTube Videos:
+- [TBA]
+- [TBA]
+- [TBA]
 
-1. **Project 1:** Description of Project 1
-2. **Project 2:** Description of Project 2
-3. **Project 3:** Description of Project 3
+📊 Stats:
+Rylan's GitHub Stats
+- Contributions: [TBA]
+- Repositories: [TBA]
+- Followers: [TBA]
 
-### Get in Touch
-I'd love to hear from you! Whether you have feedback, questions, or just want to say hi, feel free to reach out to me:
-- Email: your.email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+👨‍💻 Coding Journey:
+[TBA]
 
-### Let's Connect
-Let's connect on other platforms as well:
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Personal Website](https://www.yourwebsite.com)
-
-Thanks for visiting! ✨
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rylankfontenot/) and check out my work on [GitHub](https://github.com/rylankfontenot).
