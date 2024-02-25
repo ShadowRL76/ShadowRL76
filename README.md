@@ -13,19 +13,11 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 ---
 
 ### Social Metrics
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/ShadowRL76?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ShadowRL76?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/ShadowRL76?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ShadowRL76?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ShadowRL76">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ShadowRL76&color=blueviolet"/></a>
-</p>
 
+[![YouTube Views](https://img.shields.io/youtube/views/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Views&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Subscribers&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![GitHub Stars](https://img.shields.io/github/stars/ShadowRL76/YourRepository?style=for-the-badge&logo=github)](https://github.com/ShadowRL76)
+[![GitHub Followers](https://img.shields.io/github/followers/ShadowRL76?style=for-the-badge&logo=github)](https://github.com/ShadowRL76)
 
 ---
 
