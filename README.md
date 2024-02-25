@@ -30,3 +30,13 @@ I'm a high school senior with a passion for programming, ethical hacking, and ne
 ![ShadowRL76's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox)
 
 #
+
+### Most Used Languages in My Repositories:
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Java
+- Linux
+
