@@ -22,20 +22,17 @@ I am currently a Senior in High School, deeply passionate about programming, eth
 <br />
 <br />
 
-<details>
-   <summary><h3>📊 Stats</h3></summary>
+### 📊 Stats
 
-   <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats">
-   </p>
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats">
+</p>
 
-   <p>
-      <a href="https://github.com/ShadowRL76">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact" alt="Top Languages">
-      </a>
-   </p>
-
-</details>
+<p>
+   <a href="https://github.com/ShadowRL76">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact" alt="Top Languages">
+   </a>
+</p>
 
 #
 
