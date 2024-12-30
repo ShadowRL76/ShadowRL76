@@ -2,7 +2,7 @@
 
 **`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`**
 
-I just graduated High School, deeply passionate about programming, ethical hacking, and networking. My aspiration is to pursue a BS in EECE, ultimately aiming to become a network engineer. This career path would provide me with the flexibility to navigate various roles within the IT industry.
+I recently graduated from high school and am deeply passionate about programming, ethical hacking, and networking. I am now pursuing a Bachelor's degree in Electrical Engineering and Computer Engineering (EECE). My goal is to become a  developer, where I can apply my skills in programming and technology to create innovative solutions.
 
 ---
 ### Socials
