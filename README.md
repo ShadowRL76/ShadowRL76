@@ -2,7 +2,7 @@
 
 **Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern**
 
-Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
+Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C++, with a strong focus on systems programming, embedded development, and computer graphics.
 
 ## 🚀 What I’m Working On
 - **[SpectralForge](https://github.com/ShadowRL76/SpectralForge):** A custom OpenGL-based graphics engine focused on high-fidelity terrain rendering, dynamic lighting, procedural generation, and optimized mesh handling.
