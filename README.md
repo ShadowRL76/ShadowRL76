@@ -1,25 +1,89 @@
-# ShadowRL76
-
-**`Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern`**
-
-Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
-
-Right now, I’m:
-
-Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming.
-Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems.
-Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
-I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
-
-Curious, driven, and always learning — let’s build something awesome.
-
-
+Got it! Here's an updated version that reflects the **newness** of the **SpectralForge** graphics engine, highlighting it as an exciting new project:
 
 ---
-### Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](-----------)
+# **ShadowRL76**
+
+**Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern**
+
+Hi, I’m **Rylan** — a passionate programmer, future **Electrical and Computer Engineer**, and an all-around tech enthusiast. I specialize in **C++**, with a strong focus on **systems programming**, **embedded development**, and **computer graphics**.
+
+---
+
+## 🚀 **What I’m Working On**
+- **[SpectralForge](https://github.com/ShadowRL76/SpectralForge):**  
+   A **brand new**, cutting-edge **OpenGL-based graphics engine** designed for **high-fidelity terrain rendering**, **dynamic lighting**, **procedural generation**, and **optimized mesh handling**. It’s a fresh project aimed at exploring the boundaries of **real-time 3D graphics** with a focus on performance and visual quality. I’m still building it, but it’s already showing great potential!
+  
+- **Solar Energy Internship:**  
+   Gaining hands-on experience with **renewable technologies** and **electrical systems**. This internship has allowed me to dive deep into solar energy solutions, helping to build sustainable power systems for the future.
+  
+- **Side Projects:**  
+   - **Embedded Systems Development:** Working with **STM32** for low-level, high-performance applications.
+   - **Networking Experiments:** Exploring the intricacies of networking protocols and building my own servers.
+   - **Cybersecurity Research:** Diving into security vulnerabilities, ethical hacking, and building secure systems.
+
+---
+
+## 🌟 **Featured Project: SpectralForge Engine**
+
+<p align="center">
+  <b>SpectralForge Engine</b> - A **new** OpenGL-based graphics engine for **terrain rendering** with **dynamic lighting**.
+</p>
+<p align="center">
+  <a href="https://github.com/ShadowRL76/SpectralForge" style="font-size: 1.2em; color: #1c8adb; font-weight: bold;">Check it out on GitHub! 🚀</a>
+</p>
+
+---
+
+## 🏆 **Certifications & Skills**
+
+#### **Tech Badges:**
+<p>
+  <a href="https://www.comptia.org/certifications/security">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-brightgreen?style=for-the-badge&logo=comptia" alt="CompTIA Security+" style="border-radius: 5px;"/>
+  </a>
+  <a href="https://www.comptia.org/certifications/it-fundamentals">
+    <img src="https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=comptia" alt="CompTIA ITF+" style="border-radius: 5px;"/>
+  </a>
+</p>
+
+#### **Languages and Tools:**
+<code><img src="https://raw.githubusercontent.com/github/explore/master/topics/cplusplus/cplusplus.png" width="26" title="C++" style="margin-right: 10px;" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/opengl/opengl.png" width="26" title="OpenGL" style="margin-right: 10px;" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" width="26" title="Arduino" style="margin-right: 10px;" /> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="26" title="Git" style="margin-right: 10px;" /></code>
+
+---
+
+## 🤝 **Let’s Build Something Awesome**
+
+Curious, driven, and always learning. Whether it’s pushing the boundaries of **graphics programming**, experimenting with **embedded systems**, or diving into **cybersecurity** — I’m here to **create and collaborate**.
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats" width="400"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=dark" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+### 💡 **Fun Fact**
+> Did you know? 🌱 I’m also a **solar energy intern** and working on renewable technologies alongside my deep dive into tech! Sustainable tech for the win! ⚡
+
+---
+
+### 📫 **Get in Touch**
+- **Email:** rylankass@gmail.com
+- **YouTube:** [ShadowRL76](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+
+---
+
+### 🚀 **Stay Updated**
+
+I’m always up to something new, so stay tuned for my updates! You can follow me on:
+
+- [GitHub](https://github.com/ShadowRL76)
+- [YouTube](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
 
 ---
 
@@ -32,41 +96,5 @@ Curious, driven, and always learning — let’s build something awesome.
 
 ---
 
-### Languages and Tools:
+### **🚀 Stay Tuned for More Projects!**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio C++" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" />
-<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-
-
-<br />
-<br />
-
-
----
-
-### 📊 Stats
-
-<p>
-   <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats">
-</p>
-
-<p>
-   <a href="https://github.com/ShadowRL76">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=dark" alt="Top Languages">
-   </a>
-</p>
-
-#
-
-<details>
- <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
-   Working on it
