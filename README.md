@@ -1,8 +1,4 @@
-While I can’t directly implement the updates in your GitHub README for you, I’ve prepared all the content needed to enhance it with the ASCII art, animations, certifications, and stats we discussed. Here’s the full code for your revamped README:
 
----
-
-```markdown
 ```
       _  _  _  _          _                                                    _                                                  _  _  _  _           _                    _  _  _  _  _             _  _  _                          
     _(_)(_)(_)(_)_       (_)                                                  (_)                                                (_)(_)(_)(_) _       (_)                  (_)(_)(_)(_)(_)          _(_)(_)(_)                         
