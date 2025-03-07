@@ -10,7 +10,7 @@ Right now, I'm:
 - Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
 
 ## Graphics Engine Development
-Currently building [ShadowEngine](https://github.com/ShadowRL76/ShadowEngine) - an early-stage OpenGL-based terrain rendering engine focused on creating visually stunning natural landscapes. While in active development, the engine aims to implement high-fidelity terrain visualization with dynamic lighting, procedural generation, and optimized mesh handling. Follow the repository to track progress as features are implemented and the engine evolves.
+Currently building [SpectralForge](https://github.com/ShadowRL76/SpectralForge) - an early-stage OpenGL-based terrain rendering engine focused on creating visually stunning natural landscapes. While in active development, the engine aims to implement high-fidelity terrain visualization with dynamic lighting, procedural generation, and optimized mesh handling. Follow the repository to track progress as features are implemented and the engine evolves.
 
 I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
 
@@ -21,7 +21,7 @@ Curious, driven, and always learning — let's build something awesome.
 ### Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](-----------)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](ShadowRL76)
 
 ---
 
