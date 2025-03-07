@@ -1,7 +1,3 @@
-Got it! Here's an updated version that reflects the **newness** of the **SpectralForge** graphics engine, highlighting it as an exciting new project:
-
----
-
 # **ShadowRL76**
 
 **Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern**
