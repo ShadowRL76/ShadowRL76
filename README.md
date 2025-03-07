@@ -18,6 +18,12 @@ Curious, driven, and always learning. Whether it’s pushing the boundaries of g
 
 ---
 
+## 📫 Get in Touch
+I'm always open to discussing tech, programming challenges, or collaboration opportunities!
+- **Email:** rylankass@gmail.com
+- **YouTube:** [ShadowRL76](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+---
+
 ### Social Metrics
 
 [![YouTube Views](https://img.shields.io/youtube/views/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Views&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
