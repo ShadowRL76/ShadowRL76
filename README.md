@@ -1,7 +1,3 @@
-Sure! Here's a full, fancy, and colorful version of your profile with all sections included, along with the intro:
-
----
-
 # **ShadowRL76**
 
 **Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern**
