@@ -1,8 +1,19 @@
 # ShadowRL76
 
-**`Ethical Hacktivist (Developer/Ethical Hacker/Content Creator)`**
+**`Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern`**
 
-I recently graduated from high school and am deeply passionate about programming, ethical hacking, and networking. I am now pursuing a Bachelor's degree in Electrical Engineering and Computer Engineering (EECE). My goal is to become a  developer, where I can apply my skills in programming and technology to create innovative solutions.
+Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
+
+Right now, I’m:
+
+Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming.
+Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems.
+Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
+I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
+
+Curious, driven, and always learning — let’s build something awesome.
+
+
 
 ---
 ### Socials
