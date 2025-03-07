@@ -1,22 +1,17 @@
 # ShadowRL76
-
-**`Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern`**
-
+Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern
 Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
-
 Right now, I'm:
 - Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming.
 - Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems.
 - Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
 
 ## Graphics Engine Development
-Currently building [SpectralForge](https://github.com/ShadowRL76/SpectralForge) - an early-stage OpenGL-based terrain rendering engine focused on creating visually stunning natural landscapes. While in active development, the engine aims to implement high-fidelity terrain visualization with dynamic lighting, procedural generation, and optimized mesh handling. Follow the repository to track progress as features are implemented and the engine evolves.
+
+Currently building [ShadowEngine](https://github.com/ShadowRL76/ShadowEngine) - an early-stage OpenGL-based terrain rendering engine focused on creating visually stunning natural landscapes. While in active development, the engine aims to implement high-fidelity terrain visualization with dynamic lighting, procedural generation, and optimized mesh handling. Follow the repository to track progress as features are implemented and the engine evolves.
 
 I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
-
 Curious, driven, and always learning — let's build something awesome.
-
-
 ---
 ### Socials
 
