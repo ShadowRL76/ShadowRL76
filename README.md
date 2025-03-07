@@ -8,10 +8,25 @@ Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engi
 - **[SpectralForge](https://github.com/ShadowRL76/SpectralForge):** A custom OpenGL-based graphics engine focused on high-fidelity terrain rendering, dynamic lighting, procedural generation, and optimized mesh handling.
 - **Solar Energy Internship:** Gaining hands-on experience with renewable technologies and electrical systems.
 - **Side Projects:** Embedded systems development with STM32, networking experiments, and cybersecurity research.
+## 🌟 Featured Project
+<p align="center">
+  <a href="https://github.com/ShadowRL76/SpectralForge">
+    <img src="https://your-engine-screenshot.png" alt="SpectralForge Engine" width="600">
+  </a>
+</p>
+<p align="center">
+  <b>SpectralForge Engine</b> - OpenGL-based terrain rendering with dynamic lighting
+</p>
 
 ## 🏆 Certifications
-- **CompTIA Security+ (Sec+):** Validates my expertise in cybersecurity principles and practices.
-- **CompTIA IT Fundamentals+ (ITF+):** Demonstrates a strong foundation in IT concepts and networking.
+<p>
+  <a href="https://www.comptia.org/certifications/security">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-brightgreen?style=for-the-badge&logo=comptia" alt="CompTIA Security+">
+  </a>
+  <a href="https://www.comptia.org/certifications/it-fundamentals">
+    <img src="https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=comptia" alt="CompTIA ITF+">
+  </a>
+</p>
 
 ## 🤝 Let’s Build Something Awesome
 Curious, driven, and always learning. Whether it’s pushing the boundaries of graphics programming, experimenting with embedded systems, or diving into security — I’m here to create and collaborate.
