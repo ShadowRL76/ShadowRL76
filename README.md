@@ -1,27 +1,19 @@
-##ShadowRL76
-
+ShadowRL76
 Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern
-
-Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
-
-🚀 What I’m Working On
+Hi, I'm Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
+🚀 What I'm Working On
 
 SpectralForge: A custom OpenGL-based graphics engine focused on high-fidelity terrain rendering, dynamic lighting, procedural generation, and optimized mesh handling.
-
 Solar Energy Internship: Gaining hands-on experience with renewable technologies and electrical systems.
-
 Side Projects: Embedded systems development with STM32, networking experiments, and cybersecurity research.
 
 🏆 Certifications
 
 CompTIA Security+ (Sec+): Validates my expertise in cybersecurity principles and practices.
-
 CompTIA IT Fundamentals+ (ITF+): Demonstrates a strong foundation in IT concepts and networking.
 
-🤝 Let’s Build Something Awesome
-
-Curious, driven, and always learning. Whether it’s pushing the boundaries of graphics programming, experimenting with embedded systems, or diving into security — I’m here to create and collaborate.
-
+🤝 Let's Build Something Awesome
+Curious, driven, and always learning. Whether it's pushing the boundaries of graphics programming, experimenting with embedded systems, or diving into security — I'm here to create and collaborate.
 ### Social Metrics
 
 [![YouTube Views](https://img.shields.io/youtube/views/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Views&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
