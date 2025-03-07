@@ -92,24 +92,6 @@ I’m always up to something new, so stay tuned for my updates! You can follow m
 
 ---
 
-### **🚀 Stay Tuned for More Projects!**
-
----
-
-### 📊 Stats
-
-<p>
-   <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats">
-</p>
-
-<p>
-   <a href="https://github.com/ShadowRL76">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=dark" alt="Top Languages">
-   </a>
-</p>
-
-#
-
 <details>
  <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
    Working on it
