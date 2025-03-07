@@ -39,7 +39,6 @@ Curious, driven, and always learning — let’s build something awesome.
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" />
-<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
