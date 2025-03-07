@@ -1,24 +1,26 @@
-# ShadowRL76
+ShadowRL76
+
 Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern
+
 Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
-Right now, I'm:
-- Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming.
-- Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems.
-- Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
 
-## Graphics Engine Development
+🚀 What I’m Working On
 
-Currently building [ShadowEngine](https://github.com/ShadowRL76/ShadowEngine) - an early-stage OpenGL-based terrain rendering engine focused on creating visually stunning natural landscapes. While in active development, the engine aims to implement high-fidelity terrain visualization with dynamic lighting, procedural generation, and optimized mesh handling. Follow the repository to track progress as features are implemented and the engine evolves.
+SpectralForge: A custom OpenGL-based graphics engine focused on high-fidelity terrain rendering, dynamic lighting, procedural generation, and optimized mesh handling.
 
-I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
-Curious, driven, and always learning — let's build something awesome.
----
-### Socials
+Solar Energy Internship: Gaining hands-on experience with renewable technologies and electrical systems.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](ShadowRL76)
+Side Projects: Embedded systems development with STM32, networking experiments, and cybersecurity research.
 
----
+🏆 Certifications
+
+CompTIA Security+ (Sec+): Validates my expertise in cybersecurity principles and practices.
+
+CompTIA IT Fundamentals+ (ITF+): Demonstrates a strong foundation in IT concepts and networking.
+
+🤝 Let’s Build Something Awesome
+
+Curious, driven, and always learning. Whether it’s pushing the boundaries of graphics programming, experimenting with embedded systems, or diving into security — I’m here to create and collaborate.
 
 ### Social Metrics
 
