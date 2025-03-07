@@ -1,42 +1,72 @@
 # ShadowRL76
 
-![Banner Image](https://your-image-url.png)
+**`Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern`**
 
-**Graphics Engine Developer | Electrical & Computer Engineering Student | Solar Energy Intern**
+Hi, I’m Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
 
-Hi, I'm Rylan — a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C++, with a strong focus on systems programming, embedded development, and computer graphics.
+Right now, I’m:
 
-## 🚀 What I'm Working On
-- **[SpectralForge](https://github.com/ShadowRL76/SpectralForge):** A custom OpenGL-based graphics engine focused on high-fidelity terrain rendering, dynamic lighting, procedural generation, and optimized mesh handling.
-- **Solar Energy Internship:** Gaining hands-on experience with renewable technologies and electrical systems.
-- **Side Projects:** Embedded systems development with STM32, networking experiments, and cybersecurity research.
+Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming.
+Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems.
+Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments.
+I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
 
-## 🌟 Featured Project
-<p align="center">
-  <a href="https://github.com/ShadowRL76/SpectralForge">
-    <img src="https://your-engine-screenshot.png" alt="SpectralForge Engine" width="600">
-  </a>
-</p>
-<p align="center">
-  <b>SpectralForge Engine</b> - OpenGL-based terrain rendering with dynamic lighting
-</p>
+Curious, driven, and always learning — let’s build something awesome.
 
-## 🏆 Certifications
+
+
+---
+### Socials
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](-----------)
+
+---
+
+### Social Metrics
+
+[![YouTube Views](https://img.shields.io/youtube/views/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Views&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCetCzxQEy0gsbkWNrjp3VRA?label=YouTube%20Subscribers&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCetCzxQEy0gsbkWNrjp3VRA)
+[![GitHub Stars](https://img.shields.io/github/stars/ShadowRL76/YourRepository?style=for-the-badge&logo=github)](https://github.com/ShadowRL76)
+[![GitHub Followers](https://img.shields.io/github/followers/ShadowRL76?style=for-the-badge&logo=github)](https://github.com/ShadowRL76)
+
+---
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio C++" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" />
+<img align="left" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unreal-engine/unreal-engine.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+
+
+<br />
+<br />
+
+
+---
+
+### 📊 Stats
+
 <p>
-  <a href="https://www.comptia.org/certifications/security">
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-brightgreen?style=for-the-badge&logo=comptia" alt="CompTIA Security+">
-  </a>
-  <a href="https://www.comptia.org/certifications/it-fundamentals">
-    <img src="https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=comptia" alt="CompTIA ITF+">
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=ShadowRL76&show_icons=true&theme=gruvbox" alt="ShadowRL76 GitHub stats">
 </p>
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p>
+   <a href="https://github.com/ShadowRL76">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRL76&layout=compact&theme=dark" alt="Top Languages">
+   </a>
+</p>
+
+#
+
+<details>
+ <summary><h3>👨‍💻 ShadowRL76's Coding Journey</h3></summary>
+   Working on it
