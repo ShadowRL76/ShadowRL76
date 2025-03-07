@@ -8,9 +8,7 @@ Hi, I’m **Rylan** — a passionate programmer, future **Electrical and Compute
 
 ## 🚀 **What I’m Working On**
 - **[SpectralForge](https://github.com/ShadowRL76/SpectralForge):**  
-   A cutting-edge **OpenGL-based graphics engine** focused on **terrain rendering**, **dynamic lighting**, **procedural generation**, and **optimized mesh handling**. It's a powerful tool for exploring high-fidelity graphics and real-time applications.
-   <br/>
-   <img src="https://your-engine-screenshot.png" alt="SpectralForge Engine Screenshot" width="600" style="border-radius: 8px; box-shadow: 0 0 15px rgba(0,0,0,0.2);"/>
+   A **brand new**, cutting-edge **OpenGL-based graphics engine** designed for **high-fidelity terrain rendering**, **dynamic lighting**, **procedural generation**, and **optimized mesh handling**. It’s a fresh project aimed at exploring the boundaries of **real-time 3D graphics** with a focus on performance and visual quality. I’m still building it, but it’s already showing great potential!
   
 - **Solar Energy Internship:**  
    Gaining hands-on experience with **renewable technologies** and **electrical systems**. This internship has allowed me to dive deep into solar energy solutions, helping to build sustainable power systems for the future.
@@ -25,7 +23,7 @@ Hi, I’m **Rylan** — a passionate programmer, future **Electrical and Compute
 ## 🌟 **Featured Project: SpectralForge Engine**
 
 <p align="center">
-  <b>SpectralForge Engine</b> - A visually rich **OpenGL**-based graphics engine for **terrain rendering** with **dynamic lighting**.
+  <b>SpectralForge Engine</b> - A **new** OpenGL-based graphics engine for **terrain rendering** with **dynamic lighting**.
 </p>
 <p align="center">
   <a href="https://github.com/ShadowRL76/SpectralForge" style="font-size: 1.2em; color: #1c8adb; font-weight: bold;">Check it out on GitHub! 🚀</a>
