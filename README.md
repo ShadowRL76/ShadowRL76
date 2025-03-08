@@ -13,7 +13,7 @@
 <!-- Hidden message in ASCII art when text is selected: "HELLO WORLD" -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&color=0EC435&center=true&vCenter=true&width=450&lines=Expert+in+C%2B%2B+Systems+Programming;OpenGL+Graphics+Engine+Developer;Embedded+Systems+Enthusiast;Cybersecurity+Researcher;Terminal+%3E+GUI;Hack+the+Planet" alt="Typing SVG" />
+  <img src="https://github.com/ShadowRL76/ShadowRL76/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ```
