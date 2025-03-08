@@ -101,109 +101,15 @@ $ _
 </div>
 
 ---
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-  <!-- Background -->
-  <rect width="600" height="400" fill="#0a0e14" rx="10" ry="10"/>
-  
-  <!-- Header Animation -->
-  <g id="headerSection">
-    <rect x="50" y="30" width="500" height="60" fill="#121820" rx="5" ry="5" stroke="#30cf55" stroke-width="2"/>
-    <text x="100" y="60" font-family="monospace" font-size="14" fill="#30cf55">
-      <tspan x="100" y="60">> SKILL.MATRIX = "INITIALIZED"</tspan>
-      <tspan x="100" y="80">> ACCESS.LEVEL = "KERNEL"</tspan>
-    </text>
-    
-    <!-- Blinking cursor -->
-    <rect id="cursor" x="350" y="75" width="10" height="15" fill="#30cf55">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-  
-  <!-- Skills Section -->
-  <g id="skillsSection">
-    <rect x="50" y="110" width="500" height="220" fill="#121820" rx="5" ry="5" stroke="#30cf55" stroke-width="2"/>
-    <text font-family="monospace" font-size="14" fill="#30cf55">
-      <tspan x="75" y="135">CORE COMPETENCIES</tspan>
-    </text>
-    
-    <!-- Skills with typing animation -->
-    <text id="skill1" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="165">✓ C/C++ Advanced Systems Programming</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
-    </text>
-    
-    <text id="skill2" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="190">✓ OpenGL Graphics Pipeline Development</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1s" fill="freeze"/>
-    </text>
-    
-    <text id="skill3" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="215">✓ STM32 Embedded Development</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
-    </text>
-    
-    <text id="skill4" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="240">✓ Low-Level Hardware Integration</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2s" fill="freeze"/>
-    </text>
-    
-    <text id="skill5" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="265">✓ Network Protocol Engineering</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.5s" fill="freeze"/>
-    </text>
-    
-    <text id="skill6" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="290">✓ Memory Management Optimization</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3s" fill="freeze"/>
-    </text>
-    
-    <text id="skill7" font-family="monospace" font-size="13" fill="#ffffff" opacity="0">
-      <tspan x="75" y="315">✓ Real-Time Rendering Techniques</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.5s" fill="freeze"/>
-    </text>
-  </g>
-  
-  <!-- Security Section -->
-  <g id="securitySection">
-    <rect x="50" y="350" width="500" height="30" fill="#121820" rx="5" ry="5" stroke="#ffcc00" stroke-width="2"/>
-    
-    <text id="security" font-family="monospace" font-size="13" fill="#ffcc00" opacity="0">
-      <tspan x="75" y="370">⚠ System Access: Administrator | Security Clearance: Level 5</tspan>
-      <animate attributeName="opacity" values="0;1" dur="1s" begin="4s" fill="freeze"/>
-    </text>
-  </g>
-  
-  <!-- Gear animation -->
-  <g id="gear" transform="translate(510, 55)">
-    <path d="M10,0 L12,5 L17,5 L14,10 L16,15 L10,13 L4,15 L6,10 L3,5 L8,5 Z" fill="#30cf55">
-      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  
-  <!-- Circuit paths in background -->
-  <g stroke="#30cf55" stroke-width="1" fill="none" opacity="0.3">
-    <path d="M50,60 L30,60 L30,200 L50,200">
-      <animate attributeName="stroke-dasharray" from="250" to="0" dur="3s" begin="0.2s" fill="freeze"/>
-    </path>
-    <path d="M550,60 L570,60 L570,300 L550,300">
-      <animate attributeName="stroke-dasharray" from="300" to="0" dur="3s" begin="0.2s" fill="freeze"/>
-    </path>
-    <path d="M300,110 L300,90 L450,90 L450,110">
-      <animate attributeName="stroke-dasharray" from="200" to="0" dur="2s" begin="1s" fill="freeze"/>
-    </path>
-  </g>
-</svg>
+# Systems Programming Expert
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg">
+    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg" alt="Skills Matrix" width="600" height="400">
+  </a>
 </div>
 
 <!-- Type "xyzzy" in your browser console for a surprise -->
-
 ---
 
 ### `> CERTIFICATIONS.ACCESS = "GRANTED"`
