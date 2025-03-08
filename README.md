@@ -11,10 +11,12 @@
 ```
 
 <!-- Hidden message in ASCII art when text is selected: "HELLO WORLD" -->
-
 <div align="center">
-  <img src="https://github.com/ShadowRL76/ShadowRL76/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg">
+    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg" alt="Skills Matrix" width="900" height="600">
+  </a>
 </div>
+
 
 ```
 ██▓███   ██▀███   ▒█████    █████   ██▓ ██▓    ▓█████ 
