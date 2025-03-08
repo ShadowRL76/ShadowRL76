@@ -1,4 +1,3 @@
-```
   ██████  ██░ ██  ▄▄▄      ▓█████▄  ▒█████   █     █░ ██▀███   ██▓   
 ▒██    ▒ ▓██░ ██▒▒████▄    ▒██▀ ██▌▒██▒  ██▒▓█░ █ ░█░▓██ ▒ ██▒▓██▒   
 ░ ▓██▄   ▒██▀▀██░▒██  ▀█▄  ░██   █▌▒██░  ██▒▒█░ █ ░█ ▓██ ░▄█ ▒▒██░     
@@ -8,23 +7,16 @@
 [ GRAPHICS ENGINE DEVELOPER | ECE STUDENT | SUPERIOR ENERGY INTERN ]
 [ SYSTEM STATUS: ONLINE | SECURITY LEVEL: MAXIMUM | VERSION: 7.6 ]
 <!-- Try selecting all this text to find a hidden message :) -->
-```
-
 <!-- Hidden message in ASCII art when text is selected: "HELLO WORLD" -->
 <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg">
-  <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg" alt="Skills Matrix" width="900" height="600">
+  <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg" alt="Skills Matrix" width="900" height="200">
 </a>
-
-```
 ██▓███   ██▀███   ▒█████    █████   ██▓ ██▓    ▓█████ 
 ▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒▓██    ▓██▒▓██▒    ▓█   ▀ 
 ▓██░ ██▓▒▓██ ░▄█ ▒▒██░  ██▒▒████  ▒██░▒██░    ▒███   
 ▒██▄█▓▒ ▒▒██▀▀█▄  ▒██   ██░░▓█▒   ░██░▒██░    ▒▓█  ▄ 
 ▒██▒ ░  ░░██▓ ▒██▒░ ████▓▒░░▒█░   ░██░░██████▒░▒████▒
-```
-
 <!-- ROT13 encoded message: "Pbatenghyngvbaf! Lbh'ir sbhaq na rnfgre rtt. Fraq zr na rznvy jvgu gur fhowrpg 'V sbhaq gur pbqr' sbe n fhecevfr." -->
-
 ---
 
 ### `> SYSTEM.STATUS = "ACTIVE"`
