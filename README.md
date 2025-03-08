@@ -8,7 +8,7 @@
 [ GRAPHICS ENGINE DEVELOPER | ECE STUDENT | SUPERIOR ENERGY INTERN ]
 [ SYSTEM STATUS: ONLINE | SECURITY LEVEL: MAXIMUM | VERSION: 7.6 ]
 ```
-<p align="left">
+<p align="center">
   <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg">
     <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg" alt="Skills Matrix" width="900" height="200">
   </a>
