@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 200">
+  <style>
+    /* Base styling */
+    .background {
+      fill: #0D1117;
+    }
+    .matrix-char {
+      font-family: monospace;
+      font-size: 14px;
+    }
+    /* Animated characters */
+    .char-1 { fill: #1fce40; animation: fall 3s infinite; animation-delay: 0.1s; }
+    .char-2 { fill: #1fce40; animation: fall 2.7s infinite; animation-delay: 0.3s; }
+    .char-3 { fill: #1fce40; animation: fall 3.2s infinite; animation-delay: 0.5s; }
+    .char-4 { fill: #1fce40; animation: fall 2.9s infinite; animation-delay: 0.7s; }
+    .char-5 { fill: #1fce40; animation: fall 3.1s infinite; animation-delay: 0.9s; }
+    .char-6 { fill: #1fce40; animation: fall 2.8s infinite; animation-delay: 1.1s; }
+    .char-7 { fill: #1fce40; animation: fall 3.3s infinite; animation-delay: 1.3s; }
+    .char-8 { fill: #1fce40; animation: fall 2.6s infinite; animation-delay: 1.5s; }
+    .char-9 { fill: #1fce40; animation: fall 3.4s infinite; animation-delay: 1.7s; }
+    .char-10 { fill: #1fce40; animation: fall 2.5s infinite; animation-delay: 1.9s; }
+    
+    /* Highlight characters */
+    .highlight { fill: #ffffff; animation: flicker 2s infinite; }
+    
+    /* Terminal text */
+    .terminal-text {
+      font-family: monospace;
+      font-size: 18px;
+      font-weight: bold;
+      fill: #1fce40;
+      animation: pulse 4s infinite;
+    }
+    
+    /* Background pulse */
+    .pulse-bg {
+      fill: #1fce40;
+      opacity: 0.05;
+      animation: bg-pulse 3s infinite;
+    }
+    
+    /* Horizontal scan line */
+    .scan-line {
+      fill: #1fce40;
+      opacity: 0.5;
+      animation: scan 3s linear infinite;
+    }
+    
+    /* Animations */
+    @keyframes fall {
+      0% { opacity: 0; transform: translateY(-20px); }
+      20% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { opacity: 0; transform: translateY(180px); }
+    }
+    
+    @keyframes flicker {
+      0% { opacity: 1; }
+      50% { opacity: 0.3; }
+      100% { opacity: 1; }
+    }
+    
+    @keyframes pulse {
+      0% { opacity: 0.7; }
+      50% { opacity: 1; }
+      100% { opacity: 0.7; }
+    }
+    
+    @keyframes bg-pulse {
+      0% { opacity: 0.02; }
+      50% { opacity: 0.06; }
+      100% { opacity: 0.02; }
+    }
+    
+    @keyframes scan {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(200px); }
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect class="background" width="800" height="200" />
+  <rect class="pulse-bg" width="800" height="200" />
+  
+  <!-- Matrix rain characters - Randomized positions -->
+  <text class="matrix-char char-1" x="50" y="20">0</text>
+  <text class="matrix-char char-2" x="100" y="40">1</text>
+  <text class="matrix-char char-3" x="150" y="60">$</text>
+  <text class="matrix-char char-4" x="200" y="30">7</text>
+  <text class="matrix-char char-5" x="250" y="50">6</text>
+  <text class="matrix-char highlight" x="300" y="70">R</text>
+  <text class="matrix-char char-6" x="350" y="20">L</text>
+  <text class="matrix-char char-7" x="400" y="40">#</text>
+  <text class="matrix-char char-8" x="450" y="60">@</text>
+  <text class="matrix-char char-9" x="500" y="30">!</text>
+  <text class="matrix-char char-10" x="550" y="50">%</text>
+  <text class="matrix-char highlight" x="600" y="70">7</text>
+  <text class="matrix-char char-1" x="650" y="20">6</text>
+  <text class="matrix-char char-2" x="700" y="40">3</text>
+  <text class="matrix-char char-3" x="75" y="60">1</text>
+  <text class="matrix-char char-4" x="125" y="30">3</text>
+  <text class="matrix-char char-5" x="175" y="50">3</text>
+  <text class="matrix-char char-6" x="225" y="70">7</text>
+  <text class="matrix-char highlight" x="275" y="20">S</text>
+  <text class="matrix-char char-7" x="325" y="40">H</text>
+  <text class="matrix-char char-8" x="375" y="60">A</text>
+  <text class="matrix-char char-9" x="425" y="30">D</text>
+  <text class="matrix-char char-10" x="475" y="50">O</text>
+  <text class="matrix-char char-1" x="525" y="70">W</text>
+  <text class="matrix-char char-2" x="575" y="20">R</text>
+  <text class="matrix-char char-3" x="625" y="40">L</text>
+  <text class="matrix-char highlight" x="675" y="60">7</text>
+  <text class="matrix-char char-4" x="725" y="30">6</text>
+  
+  <!-- Scanner line -->
+  <rect class="scan-line" x="0" y="20" width="800" height="2" />
+  
+  <!-- Central text -->
+  <text class="terminal-text" x="400" y="100" text-anchor="middle">SHADOWRL SYSTEM INITIALIZED</text>
+  <text class="terminal-text" x="400" y="130" text-anchor="middle" font-size="14">ACCESS GRANTED: LEVEL 76</text>
+</svg>
