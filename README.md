@@ -101,7 +101,8 @@ $ _
 </div>
 
 ---
-# Systems Programming Expert
+### `> SKILL.MATRIX = "INITIALIZING..."`
+### `> ACCESS.LEVEL = "KERNEL"`
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg">
