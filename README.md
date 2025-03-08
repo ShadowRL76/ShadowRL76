@@ -24,10 +24,6 @@
 ▒██▒ ░  ░░██▓ ▒██▒░ ████▓▒░░▒█░   ░██░░██████▒░▒████▒
 ```
 
-<div align="center">
-  <img src="https://github.com/ShadowRL76/ShadowRL76/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- ROT13 encoded message: "Pbatenghyngvbaf! Lbh'ir sbhaq na rnfgre rtt. Fraq zr na rznvy jvgu gur fhowrpg 'V sbhaq gur pbqr' sbe n fhecevfr." -->
 
 ---
