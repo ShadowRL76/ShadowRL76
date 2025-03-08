@@ -105,8 +105,8 @@ $ _
 ### `> ACCESS.LEVEL = "KERNEL"`
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/main/skills-animation.gif">
-    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/main/skills-animation.gif" alt="Skills Matrix" width="900" height="600">
+  <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg">
+    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg" alt="Skills Matrix" width="900" height="600">
   </a>
 </div>
 
