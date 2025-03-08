@@ -18,5 +18,5 @@
     border-radius: 8px; /* Rounded corners */
     padding: 10px;
     box-shadow: 0px 0px 10px #1fce40; /* Glowing effect */
-    white-space: pre; /* Preserve alignment */
+    white-space: pre-wrap;
 }
