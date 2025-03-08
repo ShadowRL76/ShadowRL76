@@ -104,8 +104,11 @@ $ _
 ### `> SKILL.MATRIX = "INITIALIZING..."`
 ### `> ACCESS.LEVEL = "KERNEL"`
 
-![Skills Animation](skills-animation.gif)
-
+<div align="center">
+  <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/main/skills-animation.gif">
+    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/main/skills-animation.gif" alt="Skills Matrix" width="900" height="600">
+  </a>
+</div>
 
 <!-- Type "xyzzy" in your browser console for a surprise -->
 ---
