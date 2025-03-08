@@ -9,10 +9,12 @@
 [ SYSTEM STATUS: ONLINE | SECURITY LEVEL: MAXIMUM | VERSION: 7.6 ]
 <!-- Try selecting all this text to find a hidden message :) -->
 ```
+---
 <!-- Hidden message in ASCII art when text is selected: "HELLO WORLD" -->
 <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg">
   <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/profile.svg" alt="Skills Matrix" width="900" height="600">
 </a>
+---
 ```
 ██▓███   ██▀███   ▒█████    █████   ██▓ ██▓    ▓█████ 
 ▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒▓██    ▓██▒▓██▒    ▓█   ▀ 
