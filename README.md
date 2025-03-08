@@ -138,7 +138,6 @@ $ _
 <div style="background-color: #0a0a0a; border: 1px dashed #1fce40; border-radius: 5px; padding: 10px; margin-top: 15px; text-align: center;">
   <span style="color: #1fce40; font-family: monospace;">SYSTEM UPTIME:</span> 
   <span id="uptime-counter" style="color: #fff; font-family: monospace;">
-    <!-- JavaScript would power this counter in a real implementation -->
     876:23:14:59
   </span>
 </div>
