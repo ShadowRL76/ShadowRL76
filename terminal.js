@@ -14,13 +14,12 @@ term.write('Welcome to ShadowModZ Interactive Terminal\n$ ');
 
 let inputBuffer = '';
 
-// Handle Key Events
 term.onKey(({ key, domEvent }) => {
     if (domEvent.key === 'Enter') {
         term.write('\n'); // Move to a new line
         handleCommand(inputBuffer.trim()); // Process command
         inputBuffer = ''; // Clear buffer
-        term.write('$ '); // Add prompt
+        term.write('$ '); // Add prompt back
     } else if (domEvent.key === 'Backspace') {
         if (inputBuffer.length > 0) { // Prevent negative length
             inputBuffer = inputBuffer.slice(0, -1); // Remove last character
