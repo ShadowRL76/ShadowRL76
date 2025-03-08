@@ -106,7 +106,7 @@ $ _
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg">
-    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg" alt="Skills Matrix" width="600" height="400">
+    <img src="https://raw.githubusercontent.com/ShadowRL76/ShadowRL76/refs/heads/main/skills-animation.svg" alt="Skills Matrix" width="900" height="600">
   </a>
 </div>
 
