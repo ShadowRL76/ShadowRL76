@@ -169,7 +169,7 @@ $ _
 ### `> DATA.INTEGRITY = "VERIFIED"`
 
 <div align="center">
-  <p style="color: #1fce40;">Did you know? I'm working on solar energy solutions at Superior Energy after securing the position through strategic networking. The power of connections is as important as the power of code.</p>
+  <p style="color: #1fce40;">🌞💡 Did you know? I'm working on solar energy solutions at Superior Energy after securing the position through strategic networking. The power of connections is as important as the power of code. 🤝⚡</p>
 </div>
 
 <div style="background-color: #0a0a0a; border: 1px solid #7928ca; border-radius: 5px; padding: 10px; margin-top: 15px; text-align: center; font-family: monospace; position: relative; overflow: hidden;">
