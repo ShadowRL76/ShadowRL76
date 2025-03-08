@@ -23,9 +23,13 @@
 <!-- ROT13 encoded message: "Pbhatengf lbh fvaq n rffrty rktgr rgg!" -->
 
 ```
+
+
 ---
 ### `> SYSTEM.STATUS = "ACTIVE"`
 ### `> CONSOLE.VERSION = "RL-76.31337"`
+### `> CONSOLE.CAT<BIO.TXT> = "LOADING..."`
+Hi, I'm Rylan - a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
 ### `> CURRENT.PROJECTS = "LOADING..."`
 
 <div style="background-color: #0a0a0a; border: 1px solid #1fce40; border-radius: 5px; padding: 15px; margin-bottom: 15px;">
