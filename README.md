@@ -25,6 +25,14 @@
 ```
 ---
 ### `> SYSTEM.STATUS = "ACTIVE"`
+
+### 🛠️ Tools & Technologies
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-%230073B6.svg?style=for-the-badge&logo=stmicroelectronics)
+
 ### `> CONSOLE.VERSION = "RL-76.31337"`
 ### `> CURRENT.PROJECTS = "LOADING..."`
 
