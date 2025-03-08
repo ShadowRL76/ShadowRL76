@@ -104,7 +104,7 @@ $ _
 ### `> SKILL.MATRIX = "INITIALIZING..."`
 ### `> ACCESS.LEVEL = "KERNEL"`
 
-![Skills Animation](skills-animation_223e4d45.gif)
+![Skills Animation](skills-animation.gif)
 
 
 <!-- Type "xyzzy" in your browser console for a surprise -->
