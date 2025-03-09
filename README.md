@@ -29,7 +29,7 @@
 ### `> SYSTEM.STATUS = "ACTIVE"`
 ### `> CONSOLE.VERSION = "RL-76.31337"`
 ### `> CONSOLE.CAT<BIO.TXT> = "LOADING..."`
-Hi, I'm Rylan - a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C and C++, with a strong focus on systems programming, embedded development, and computer graphics.
+Hi, I'm Rylan - a passionate programmer, future Electrical and Computer Engineer, and an all-around tech enthusiast. I specialize in C++, with a strong focus on systems programming, embedded development, and computer graphics.
 Right now, I'm:
 Building a custom graphics engine in C++, pushing my knowledge of rendering, optimization, and low-level programming. Working as a solar energy intern, gaining hands-on experience with renewable tech and electrical systems. Tackling various side projects, from embedded systems with STM32 to networking and cybersecurity experiments. I also hold CompTIA Security+ (Sec+) and IT Fundamentals+ (ITF+) certifications, proving my solid background in cybersecurity, networking, and IT concepts.
 ### `> CURRENT.PROJECTS = "LOADING..."`
